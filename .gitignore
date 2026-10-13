@@ -1,0 +1,13 @@
+# 构建与发信中间产物
+out/
+dist/.app-*.js
+dist/*.html.tmp
+*.zip
+*.log
+
+# 无头渲染的中间件（体积大、可复现）
+review/shots*/
+review/.chrome-*/
+review/agy-raw*.txt
+review/.check-shots/
+releases/*.tar.gz

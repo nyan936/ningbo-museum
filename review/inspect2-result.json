@@ -1,0 +1,419 @@
+{
+  "report": {
+    "meshCount": 477,
+    "instancedCount": 7,
+    "geometryCount": 457,
+    "materialCount": 152,
+    "textureCount": 49,
+    "texList": [
+      {
+        "w": 128,
+        "h": 64,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 128,
+        "h": 128,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 128,
+        "h": 128,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 1024,
+        "h": 1024,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 256,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 4096,
+        "h": 2048,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 4096,
+        "h": 2048,
+        "colorSpace": ""
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 1024,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 1024,
+        "colorSpace": ""
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": ""
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 1024,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 1024,
+        "h": 512,
+        "colorSpace": ""
+      },
+      {
+        "w": 128,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 128,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 64,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 64,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 64,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 64,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 64,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 64,
+        "h": 256,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 128,
+        "h": 128,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 256,
+        "h": 1024,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 256,
+        "h": 1024,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 256,
+        "h": 1024,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 256,
+        "h": 1024,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 256,
+        "h": 1024,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 256,
+        "h": 1024,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 1024,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 1024,
+        "h": 512,
+        "colorSpace": ""
+      },
+      {
+        "w": 512,
+        "h": 128,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 512,
+        "colorSpace": "srgb"
+      },
+      {
+        "w": 512,
+        "h": 384,
+        "colorSpace": "srgb"
+      }
+    ],
+    "stats": {
+      "fps": 20,
+      "tris_total": 664452,
+      "tris_visible_upper_bound": 663048,
+      "meshes": 477,
+      "programs": 43,
+      "calls_last_pass": 1,
+      "hour": 12,
+      "cam": "hero",
+      "gpu": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)",
+      "size": [
+        1400,
+        800
+      ],
+      "pixelRatio": 1
+    },
+    "calls": {
+      "withOutline": 1,
+      "noOutline": 1,
+      "noWaterNoOutline": 1
+    },
+    "tris": 1,
+    "stairData": {
+      "N": 30,
+      "totalHeight": 9.95,
+      "perRise": 0.35,
+      "stairY_z0": 10.5
+    },
+    "trashBinMeshFound": true,
+    "camInfo": {
+      "hero": {
+        "pos": [
+          -104,
+          44,
+          136
+        ],
+        "tgt": [
+          -6,
+          9,
+          -2
+        ],
+        "label": "全景"
+      },
+      "portal": {
+        "pos": [
+          -164,
+          7.6,
+          2
+        ],
+        "tgt": [
+          -48,
+          7,
+          0
+        ],
+        "label": "裂口"
+      },
+      "valley": {
+        "pos": [
+          13.6,
+          15,
+          98
+        ],
+        "tgt": [
+          13.6,
+          8,
+          14
+        ],
+        "label": "山谷台阶"
+      },
+      "wall": {
+        "pos": [
+          -30,
+          4.8,
+          -45.3
+        ],
+        "tgt": [
+          -29,
+          8.8,
+          -32.5
+        ],
+        "label": "瓦爿墙"
+      },
+      "water": {
+        "pos": [
+          -118,
+          3.6,
+          32
+        ],
+        "tgt": [
+          -88,
+          6,
+          -12
+        ],
+        "label": "水岸"
+      },
+      "ridge": {
+        "pos": [
+          -56,
+          45,
+          -28
+        ],
+        "tgt": [
+          -6,
+          20,
+          4
+        ],
+        "label": "屋脊"
+      },
+      "aerial": {
+        "pos": [
+          -126,
+          152,
+          156
+        ],
+        "tgt": [
+          0,
+          4,
+          0
+        ],
+        "label": "鸟瞰"
+      },
+      "night": {
+        "pos": [
+          -96,
+          34,
+          118
+        ],
+        "tgt": [
+          -6,
+          9,
+          0
+        ],
+        "label": "夜色"
+      },
+      "walk": {
+        "pos": [
+          13.6,
+          1.65,
+          62
+        ],
+        "tgt": [
+          13.6,
+          3.4,
+          22
+        ],
+        "label": "漫步"
+      }
+    },
+    "walkCam": {
+      "label": "漫步",
+      "pos": [
+        13.6,
+        1.65,
+        62
+      ],
+      "tgt": [
+        13.6,
+        3.4,
+        22
+      ]
+    },
+    "errors": []
+  },
+  "consoleMsgs": []
+}

@@ -1,0 +1,381 @@
+{
+  "inspectReport": {
+    "meshCount": 441,
+    "instancedCount": 7,
+    "materialCount": 142,
+    "geometryCount": 421,
+    "textureCount": 44,
+    "textureDetails": [
+      {
+        "name": "unnamed",
+        "w": 128,
+        "h": 64,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 128,
+        "h": 128,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 1024,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 1024,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 1024,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": ""
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": ""
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": ""
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 1024,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 1024,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": ""
+      },
+      {
+        "name": "unnamed",
+        "w": 128,
+        "h": 256,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 256,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 256,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 128,
+        "h": 256,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 64,
+        "h": 256,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 64,
+        "h": 256,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 64,
+        "h": 256,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 64,
+        "h": 256,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 64,
+        "h": 256,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 64,
+        "h": 256,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 128,
+        "h": 128,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 256,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 256,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 256,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 256,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 256,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 256,
+        "h": 1024,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 1024,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 1024,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": ""
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 128,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 512,
+        "format": 1023,
+        "colorSpace": "srgb"
+      },
+      {
+        "name": "unnamed",
+        "w": 512,
+        "h": 384,
+        "format": 1023,
+        "colorSpace": "srgb"
+      }
+    ],
+    "stats": {
+      "fps": 20,
+      "tris_total": 459782,
+      "tris_visible_upper_bound": 424804,
+      "meshes": 441,
+      "programs": 43,
+      "calls_last_pass": 1,
+      "hour": 16.4,
+      "cam": "hero",
+      "gpu": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)",
+      "size": [
+        1280,
+        720
+      ],
+      "pixelRatio": 1
+    },
+    "renderInfo": {
+      "calls": 1,
+      "lines": 0,
+      "triangles": 12,
+      "points": 0,
+      "geometries": 403,
+      "textures": 42,
+      "programs": 43
+    },
+    "toggleResults": {
+      "orbit": "ok",
+      "people": "ok",
+      "outline": "ok",
+      "water": "ok",
+      "shadows": "ok",
+      "bloom": "ok",
+      "quality": "ok"
+    },
+    "camResults": {
+      "hero": "ok",
+      "portal": "ok",
+      "valley": "ok",
+      "wall": "ok",
+      "water": "ok",
+      "ridge": "ok",
+      "aerial": "ok",
+      "night": "ok"
+    },
+    "hourResults": {
+      "0": "ok",
+      "12": "ok",
+      "24": "ok",
+      "25": "ok",
+      "6.6": "ok",
+      "17.7": "ok",
+      "19.6": "ok",
+      "22.4": "ok",
+      "-1": "ok"
+    },
+    "errors": []
+  },
+  "consoleMsgs": [
+    {
+      "type": "error",
+      "text": "THREE.Object3D.add: object not an instance of THREE.Object3D. i"
+    }
+  ]
+}
